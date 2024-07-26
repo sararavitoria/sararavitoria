@@ -1,6 +1,5 @@
 - ### Saudações, me chamo Vitória ✋👽
 - 🏫 Estudo Desenvolvimento de sistemas na ETEC Antônio Furlan
-- 🧠 Html, CSS
 - 📖 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
